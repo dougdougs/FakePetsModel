@@ -1,34 +1,38 @@
 {
-  "players": [
-    {
-      "id": 1,
-      "name": "Pipoca",
-      "owner":{
-          "name": "Alberto",
-          "email": "alberto@gmail.com",
-          "phone": "(11) 9-9999-9999"
+    "players": [
+      {
+        "id": 1,
+        "name": "Pipoca",
+        "owner":{
+            "name": "Alberto",
+            "email": "alberto@gmail.com",
+            "phone": "(11) 9-9999-9999"
+        },
+        "answers":[]
+      },
+      {
+        "id": 2,
+        "name": "Luly",
+        "owner":{
+            "name": "Karina",
+            "email": "Karina@gmail.com",
+            "phone": "(11) 9-8888-8888"
+        },
+        "answers":[]
+      },
+      {
+        "id": 3,
+        "name": "Augustus Pablo",
+        "owner":{
+            "name": "Vilma",
+            "email": "vilminha@gmail.com",
+            "phone": "(11) 9-7777-7777"
+        },
+        "answers":[]
       }
-    },
-    {
-      "id": 2,
-      "name": "Luly",
-      "owner":{
-          "name": "Karina",
-          "email": "Karina@gmail.com",
-          "phone": "(11) 9-8888-8888"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Augustus Pablo",
-      "owner":{
-          "name": "Vilma",
-          "email": "vilminha@gmail.com",
-          "phone": "(11) 9-7777-7777"
-      }
+    ],
+    "profile": {
+      "name": "dougdougs"
     }
-  ],
-  "profile": {
-    "name": "dougdougs"
   }
-}
+  
