@@ -34,27 +34,33 @@
     "questions": [
         {
             "id": 1,
-            "question": "lorem 1?"
+            "question": "tranquilao ou hardcores?",
+            "answers": ["tranquilao", "hardcores"]
         },
         {
             "id": 2,
-            "question": "lorem 2?"
+            "question": "praia ou campo?",
+            "answers": ["praia", "campo"]
         },
         {
             "id": 3,
-            "question": "lorem 3?"
+            "question": "humanas ou exatas?",
+            "answers": ["humanas", "exatas"]
         },
         {
             "id": 4,
-            "question": "lorem 4?"
+            "question": "balada ou netflix?",
+            "answers": ["balada", "netflix"]
         },
         {
             "id": 5,
-            "question": "lorem 5?"
+            "question": "bolacha ou biscoito?",
+            "answers": ["bolacha", "biscoito"]
         },
         {
             "id": 6,
-            "question": "lorem 6?"
+            "question": "corrida ou yoga?",
+            "answers": ["corrida", "yoga"]
         }
     ],
     "profile": {
