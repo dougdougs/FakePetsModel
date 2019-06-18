@@ -63,6 +63,48 @@
             "answers": ["corrida", "yoga"]
         }
     ],
+    "archetypes": [
+        {
+            "id":0,
+            "name": "Arquetipo #0",
+            "combinations": [9, 53, 4, 5, 13, 29, 7, 12]
+        },
+        {
+            "id":1,
+            "name": "Arquetipo #1",
+            "combinations": [20, 52, 60, 11, 27, 40, 58, 37]
+        },
+        {
+            "id":2,
+            "name": "Arquetipo #2",
+            "combinations": [14, 57, 26, 6, 8, 23, 45, 15]
+        },
+        {
+            "id":3,
+            "name": "Arquetipo #3",
+            "combinations": [43, 33, 21, 24, 41, 38, 30, 34]
+        },
+        {
+            "id":4,
+            "name": "Arquetipo #4",
+            "combinations": [35, 18, 25, 64, 59, 39, 17, 28]
+        },
+        {
+            "id":5,
+            "name": "Arquetipo #5",
+            "combinations": [56, 16, 47, 1, 44, 42, 51, 36]
+        },
+        {
+            "id":6,
+            "name": "Arquetipo #6",
+            "combinations": [50, 3, 46, 55, 61, 2, 63, 54]
+        },
+        {
+            "id":7,
+            "name": "Arquetipo #7",
+            "combinations": [31, 19, 49, 62, 22, 10, 32, 48]
+        }
+    ],
     "profile": {
       "name": "dougdougs"
     }
